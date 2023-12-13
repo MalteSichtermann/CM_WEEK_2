@@ -2,7 +2,7 @@
 "1" "animate"
 "2" "inanim"
 "3" "human"
-"4" "nonhumani"
+"4" "nonhuman"
 "5" "body"
 "6" "face"
 "7" "natObj"
